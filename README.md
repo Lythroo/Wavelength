@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://modrinth.com/mod/simple-blood">
+<a href="https://modrinth.com/mod/wavelength">
   <img src="https://img.shields.io/badge/Available_on-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white">
 </a>
 
