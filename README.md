@@ -9,9 +9,7 @@
 
 <div align="center">
 
-![Wavelength Icon](https://cdn.modrinth.com/data/cached_images/62bf5dc6299991e716add3cdb1829aea57011f37.png)
-
-# Wavelength
+![Title](https://cdn.modrinth.com/data/cached_images/f69e78ced0b8d7f7cf177f00de8522b33e5c291a.png)
 
 <br>
 <img src="https://img.shields.io/badge/Mod_Loader-Fabric-dbd0b4?style=for-the-badge" alt="Fabric">
@@ -24,8 +22,14 @@
 
 *An enhanced multiplayer experience for Minecraft.*
 <br>
-Custom nameplates, a top-bar HUD, achievement badges, stat tracking, a friend system, collaborative projects, server events, and much more — all in one mod.
+<br>
 
+![VERY EARLY IN DEVELOPMENT! EXPECT SOME BUGS!](https://cdn.modrinth.com/data/cached_images/7b6edfef683343cad4db99de3fdd6de6fc005cbb.png)
+
+<br>
+Custom nameplates, a top-bar HUD, achievement badges, stat tracking, a friend system, collaborative projects, server events, and much more — all in one mod.
+<br>
+<br>
 <br>
 <table>
 <tr>
@@ -43,119 +47,98 @@ Custom nameplates, a top-bar HUD, achievement badges, stat tracking, a friend sy
 </table>
 
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<div align="center">
+
+![Features](https://cdn.modrinth.com/data/cached_images/72f784c9190d266a3606f154cbb460683aaeab0c.png)
 
 <br>
-<div align="center">
-
-# Features
-
-</div>
-
----
-
-<div align="center">
-
-## Custom Nameplates
-
-![Custom Nameplates](https://cdn.modrinth.com/data/cached_images/519c15b75b941d4c663f26211822551236e1435d.png)
-
-</div>
-
-Vanilla name tags are replaced with fully custom screen-space panels that stack above each player's head. Each nameplate shows the player's **rank & town**, **name**, and **current activity**.
-
-- Badge holders get animated border effects
-
 <br>
-<div align="center">
-
-## Top Bar HUD
-
-![Top Bar](https://cdn.modrinth.com/data/cached_images/a30d78d29e404be34e09aa5df1aee502f8dc6a22_0.webp)
-</div>
-
-A floating bar at the top of your screen keeps you informed at a glance.
-
-- **Nearby players** — names, distances in metres, and a directional arrow (↑↗→↘↓↙←↖)
-- **Town & rank** — your identity line shown below the player row
-- **Live events** — active server events with countdown timers and directional arrows toward the event location
-
-<br>
-<div align="center">
-
-## Achievement Badges
-
-![Achievement Badges](https://cdn.modrinth.com/data/cached_images/8f0c8d7e47ffd47d5bd5cca5bb0e59b18475c05b.png)
-
-</div>
-<div align="center">
-Six stat categories — Mining, Building, Combat, Farming, Crafting, and Exploring — each with their own progression curve and four tiers: 🥉 Bronze, 🥈 Silver, 🥇 Gold, and 💎 Diamond.
-
-<br>
-<div align="center">
 
 
-
-<br>
-<div align="center">
-
-## Wavelength Menu
+![Menu Text](https://cdn.modrinth.com/data/cached_images/a779e27f04c80a8bedf87effea947a994971b552.png)
 
 ![Menu](https://cdn.modrinth.com/data/cached_images/d4c0e0c2549b3a8ac88b034e39e518f3e8e202fc.png)
 
-</div>
 
-Press **H** to open the Wavelength Menu — a full-screen panel with eight tabs.
+![Press H](https://cdn.modrinth.com/data/cached_images/5f2acf44807f8091f12537dd9945bf9d9d9644d2.png)
 
-| Tab | What it does |
-|---|---|
-| **Players** | Browse all players, activity tags, and badge info. Sort by distance, activity, or name. |
-| **Stats** | Detailed stats and progress bars for yourself or any other player. |
-| **Leaderboard** | Server-wide rankings across all six categories. |
-| **Friends** | Manage incoming/outgoing friend requests and your confirmed friend list. |
-| **Projects** | Create and collaborate on building projects with a material checklist and a manual progress tracker. |
-| **Events** | Host and browse server events with optional locations and scheduled start times. |
-| **Timeline** | A live feed of badge unlocks and project/event activity from across the server. |
-| **Town** | Set your rank and town name — shown on your nameplate and in the top bar. |
+![Table](https://cdn.modrinth.com/data/cached_images/ab09f23334e9bf304c77d149cbd0db6bca5ba3ab.png)
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-## Privacy Modes & PVP Mode
+![Nameplates](https://cdn.modrinth.com/data/cached_images/2da6d340f7ecc1e2a8177bd25bc612537c6739af.png)
+
+![Custom Nameplates Showcase](https://cdn.modrinth.com/data/cached_images/4bb3f732a74deccf0189415713d72346c9c541b8.png)
+
+
+![Text1](https://cdn.modrinth.com/data/cached_images/046f77148feebbc2acf0f205933c8408775dbb7e.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+
+![Top Bar Text](https://cdn.modrinth.com/data/cached_images/04605520d4293a636a53f98769e392a59b2bcdf5.png)
+
+![Top Bar](https://cdn.modrinth.com/data/cached_images/5602544d2c6c41d9f0d8aa68e0f1360d674eb1d1.png)
+
+![Text2](https://cdn.modrinth.com/data/cached_images/385733ebc284fe0a5c40035de47361e6e58cddd2.png)
+
+
+![Bulllet](https://cdn.modrinth.com/data/cached_images/182c4650204efbf3375659dbbf71e2396836f2c4.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Achievement Badges Text](https://cdn.modrinth.com/data/cached_images/10c891e2d582629df591c2f370ebfa5a537d2aaf.png)
+
+![Achievement Badges](https://cdn.modrinth.com/data/cached_images/60f631f2b2f01b46ad0ee456b58c132ee1d3b8f8.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+![Privacy Modes and PVP Mode Text](https://cdn.modrinth.com/data/cached_images/f5268e791db9f25740603699a6c32616b183b5e2.png)
 
 ![Privacy Modes and PVP Mode](https://cdn.modrinth.com/data/cached_images/a8f6bbd3955ba94c5ff701fbc186a24a4621096a.png)
 
-</div>
-</div>
-<div align="center">
 
-Control exactly how visible you are to other players.
-</div>
+![Control exactly how visible you are to other players.](https://cdn.modrinth.com/data/cached_images/d4ad24f9c97ecdd19b2e3ed4ff6ced4333dda7da.png)
 
-- 🟢 **Public** — fully visible to everyone
-- 🟡 **Friends Only** — hidden from non-friends' nearby lists; nameplate shown only to friends
-- 🔴 **Ghost** — nameplate dimmed to 45% for everyone; invisible in the nearby player list
+
+![Privacy Modes](https://cdn.modrinth.com/data/cached_images/7b6495f84c88559ba837fb22b56c6d0d9abb6807.png)
   
-<div align="center">
   
-**PVP Mode** hides your activity tag from all nameplates. Toggle it with a keybind or through the menu.
-</div>
-<br>
-<br>
-
-<div align="center">
-
-```
-...and many more features!
-```
-
-</div>
+![PVP Mode hides your activity tag on your nameplate and hides the top bar hud. Toggle it with a keybind or through the menu.](https://cdn.modrinth.com/data/cached_images/aeaf239b540fa887b5aed85849dd74240e77a85a.png)
 
 <br>
+<br>
 
----
 
-<div align="center">
+![...and many more features!](https://cdn.modrinth.com/data/cached_images/8a2557ff9eb96ec77afc395295241022d4745111.png)
 
-## Configuration
 
-> All features are fully customizable through [Mod Menu](https://modrinth.com/mod/modmenu) — toggle individual HUD sections, set default sort modes, adjust bar opacity, control nameplate elements, and more.
+<br>
