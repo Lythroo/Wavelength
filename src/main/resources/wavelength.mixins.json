@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "com.lythroo.wavelength.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"MixinEntityRenderer",
+		"GameRendererAccessor",
+		"MixinMouse"
+	],
+	"mixins": [
+		"MixinEndPortalBlock",
+		"MixinNetherPortalBlock"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
