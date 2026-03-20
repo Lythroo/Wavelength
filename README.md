@@ -26,6 +26,10 @@
 
 ![VERY EARLY IN DEVELOPMENT! EXPECT SOME BUGS!](https://cdn.modrinth.com/data/cached_images/7b6edfef683343cad4db99de3fdd6de6fc005cbb.png)
 
+![Lots of features planned](https://cdn.modrinth.com/data/cached_images/755e3c2cd3513d1927101b30a5069b1549531414.png)
+
+[![Support me on Ko-fi](https://cdn.modrinth.com/data/cached_images/59496f4b454cbfb432f45bce418a880e628c4e6b.png)](https://ko-fi.com/lythro)
+
 <br>
 Custom nameplates, a top-bar HUD, achievement badges, stat tracking, a friend system, collaborative projects, server events, and much more — all in one mod.
 <br>
@@ -78,6 +82,19 @@ Custom nameplates, a top-bar HUD, achievement badges, stat tracking, a friend sy
 <br>
 <br>
 
+![Dimension Gates H](https://cdn.modrinth.com/data/cached_images/5f665c503fd52652791a8b4d224b9808ff52f77e.png)
+
+![Dimension Gates SS](https://cdn.modrinth.com/data/cached_images/d51c3701845ee134dd31687de80000c8fab1d4de.png)
+
+![Dimension Gates T](https://cdn.modrinth.com/data/cached_images/b69e051996142718d13664a86578d31025590e58.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ![Nameplates](https://cdn.modrinth.com/data/cached_images/2da6d340f7ecc1e2a8177bd25bc612537c6739af.png)
 
 ![Custom Nameplates Showcase](https://cdn.modrinth.com/data/cached_images/4bb3f732a74deccf0189415713d72346c9c541b8.png)
@@ -95,7 +112,7 @@ Custom nameplates, a top-bar HUD, achievement badges, stat tracking, a friend sy
 
 ![Top Bar Text](https://cdn.modrinth.com/data/cached_images/04605520d4293a636a53f98769e392a59b2bcdf5.png)
 
-![Top Bar](https://cdn.modrinth.com/data/cached_images/5602544d2c6c41d9f0d8aa68e0f1360d674eb1d1.png)
+![Top Bar](https://cdn.modrinth.com/data/cached_images/11f2e79d6c1d12eebfe290f3d158f10fa188cd7e.png)
 
 ![Text2](https://cdn.modrinth.com/data/cached_images/385733ebc284fe0a5c40035de47361e6e58cddd2.png)
 
